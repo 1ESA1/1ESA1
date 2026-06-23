@@ -10,7 +10,7 @@
 <tr>
 <td valign="top" width="50%">
 
-# Chi sono
+## Chi sono
 
 ```yaml
 name      : ESA (Enrico Amarena)
@@ -23,13 +23,13 @@ open_to   : Collaborazioni su Developers Italia
 
 <br>
 
-# Contatti
+## Contatti
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enricoamarena)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/1ESA1)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/1ESA1)
 
-[![Profile views](https://komarev.com/ghpvc/?username=1esa1&color=4493F8&style=flat-square&label=visite)](https://github.com/1esa1)
+[![Profile views](https://komarev.com/ghpvc/?username=1esa1&color=39D353&style=flat-square&label=visite)](https://github.com/1esa1)
 
 </td>
 <td valign="top" width="50%">
@@ -43,7 +43,7 @@ open_to   : Collaborazioni su Developers Italia
 
 ---
 
-# Stack
+## Stack
 
 <table>
 <tr>
