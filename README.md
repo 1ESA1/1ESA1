@@ -18,7 +18,7 @@ location  : Italy 🇮🇹
 role      : Backend && Frontend Developer
 status    : Building → AnalisiOpenData
 learning  : Frameworks & Modern Architecture
-open_to   : Collaborazioni su Developers Italia
+open_to   : Collaborazioni 
 ```
 
 <br>
